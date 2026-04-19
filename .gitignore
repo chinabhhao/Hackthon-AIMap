@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Dependencies
+node_modules/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Environment
+.env
+
+# WorkBuddy
+.workbuddy/
+
+# Temp
+temp/

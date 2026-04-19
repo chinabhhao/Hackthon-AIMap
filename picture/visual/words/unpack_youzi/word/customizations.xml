@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wne:tcg xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml">
+  <wne:keymaps>
+    <wne:keymap wne:kcmPrimary="075A">
+      <wne:fci wne:fciName="Italic" wne:swArg="0000"/>
+    </wne:keymap>
+    <wne:keymap wne:kcmPrimary="0753">
+      <wne:fci wne:fciName="AcceptAllChangesInDoc" wne:swArg="0000"/>
+    </wne:keymap>
+  </wne:keymaps>
+</wne:tcg>
